@@ -1,0 +1,6 @@
+path: /home/sch24/aic_yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: sfp_port
+  1: sc_port
